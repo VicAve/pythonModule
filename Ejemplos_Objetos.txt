@@ -1,0 +1,31 @@
+MOTOCICLETA
+	CARACTERISTICAS
+	*Color
+	*Cilindrada
+	*Estilo
+	ACCIONES
+	*Encender
+	*Apagar
+	*Acelerar
+	*Frenar
+	*Virar
+********************************************
+CERVEZA
+	CARACTERISTICAS
+	*Grados de Alcohol
+	*Color Envase
+	*Marca
+	ACCIONES
+	*Rellenar
+	*Tomarse
+	*Romperce
+********************************************
+TV
+	CARACTERISTICAS
+	*Tamaño pantalla
+	*Color Envase
+	*Marca
+	ACCIONES
+	*Rellenar
+	*Tomarse
+	*Romperce
